@@ -1,0 +1,21 @@
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>5</ApiVersion>
+  <Id>uk.tristanstrange.CopySampleTo</Id>
+  <Version>0.1</Version>
+  <Author>Tristan Strange [tristan.strange@gmail.com]</Author>
+  <Name>Copy sample to</Name>
+  <Category>Instrument</Category>
+  <Description>
+    This tool copies the selected sample or selected instruments' samples to a
+    destination instrument.
+    
+    The tools feature can accessd via menus in the Instrument Box or Sample
+    Navigator or via global keyboard shortcut.
+
+    The copied sample is always mapped to the next highest free key in the
+    destination Instrument.
+
+    Any of the first eight instruments can serve as destinations.
+  </Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+</RenoiseScriptingTool>
